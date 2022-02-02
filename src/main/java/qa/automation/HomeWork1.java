@@ -23,9 +23,5 @@ public class HomeWork1 {
         System.out.println("Please enter your user name: " + userName + "\nPlease enter your favourite hobbies: " + hobby + "" +
                 "\nPlease enter your age: " + age);
 
-
-
-
-
     }
 }
